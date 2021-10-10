@@ -2,7 +2,7 @@
 
 A batch file restoring Windows 11's redesigned context menus to their full, classic functionality.
 
-Running the contents of this article in a batch file.
+Running the contents of the article below in a batch file.
 
 https://www.pcgamer.com/windows-11-context-menu-fix-right-click/ 
 
@@ -10,11 +10,17 @@ https://www.pcgamer.com/windows-11-context-menu-fix-right-click/
 
 ## install
 
-Run "install.bat" with administrative privileges.
+1. Download or git clone this repo.
+
+1. Run "install.bat" with administrative privileges.
+
+1. Microsoft Defender will block this. Click "More info" to see "Run anyway".
+
+![img](./images/defender.jpg)
 
 ## uninstall
 
-Run "uninstall.bat" with administrative privileges.
+1. Run "uninstall.bat" with administrative privileges.
 
 ## references
 
