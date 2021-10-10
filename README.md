@@ -10,7 +10,7 @@ https://www.pcgamer.com/windows-11-context-menu-fix-right-click/
 
 ## install
 
-1. Download or git clone this repo.
+1. Download or git clone this repo. -> [download](https://github.com/h1day/Old_Right_Click_Menu_For_Win11/archive/refs/tags/v0.1.zip)
 
 1. Run "install.bat".
 
