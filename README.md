@@ -2,7 +2,7 @@
 
 A batch file restoring Windows 11's redesigned context menus to their full, classic functionality.
 
-Run the contents of this article in a batch file.
+Running the contents of this article in a batch file.
 
 https://www.pcgamer.com/windows-11-context-menu-fix-right-click/ 
 
