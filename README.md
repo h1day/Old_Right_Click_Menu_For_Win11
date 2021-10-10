@@ -12,7 +12,7 @@ https://www.pcgamer.com/windows-11-context-menu-fix-right-click/
 
 1. Download or git clone this repo.
 
-1. Run "install.bat" with administrative privileges.
+1. Run "install.bat".
 
 1. Microsoft Defender will block this. Click "More info" to see "Run anyway".
 
@@ -20,7 +20,9 @@ https://www.pcgamer.com/windows-11-context-menu-fix-right-click/
 
 ## uninstall
 
-1. Run "uninstall.bat" with administrative privileges.
+1. Run "uninstall.bat" .
+
+1. Microsoft Defender will block this. Click "More info" to see "Run anyway".
 
 ## references
 
